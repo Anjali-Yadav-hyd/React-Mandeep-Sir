@@ -40,7 +40,7 @@ Destructing of Array/Object: Using this we can extract values from it individual
 
 Modules:
 
-export: whenver you want to share source code  from current file  to another file 
+export: whenver you want to share some source code  from current file  to another file 
 
 import: whenver you want to get data from another file to current file
 
