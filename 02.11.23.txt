@@ -13,10 +13,13 @@ Destructing of Array/Object: Using this we can extract values from it individual
 
         const [variableName1, variableName2] = [value1, value2, value3, ..., valueN];
 
+    MOBILE NO. INTO AN ARRAY
 
     9032345245
 
     +91 903-234-5245
+
+    ALTERNATE WAY:
 
     const state = useState(0);
 
@@ -31,14 +34,17 @@ Destructing of Array/Object: Using this we can extract values from it individual
         responseText: '',
     }
 
+    Destructing OF Object:
+
     const { status, responseText } = response;
 
 Modules:
 
-export
+export: whenver you want to share source code  from current file  to another file 
 
-import
+import: whenver you want to get data from another file to current file
 
+    export value as an object (for more than one) or export value as a variable
     value
 
     {}
